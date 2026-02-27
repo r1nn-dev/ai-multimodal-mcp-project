@@ -8,12 +8,11 @@
   - py / ipynb
 
 ## topic
-### 02-data-analysis
-- Numpy
-- Pandas
+- 02-data-analysis
+  - Numpy
+  - Pandas
+- 03-ml-dl
+  - Machine Learning / Deep Learning
+- Multimodal
+  - nlp / cv
 
-### 03-ml-dl
-Machine Learning / Deep Learning
-
-### Multimodal
-nlp / cv
