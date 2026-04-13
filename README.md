@@ -2,17 +2,18 @@
 
 - 기간
   - start 2025/11/12  
-  - finish 2026/   
+  - finish 2026/04/10   
 - file
   - Google Colaboratory
   - py / ipynb
 
 ## topic
-- 02-data-analysis
+- 01_Data-Analysis
   - Numpy
   - Pandas
-- 03-ml-dl
+- 02_MLl-DL
   - Machine Learning / Deep Learning
-- Multimodal
+- 03_Multimodal
   - nlp / cv
+- 04_AI-Agent
 
