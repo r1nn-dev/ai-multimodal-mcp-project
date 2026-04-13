@@ -11,9 +11,9 @@
 - 01_Data-Analysis
   - Numpy
   - Pandas
-- 02_MLl-DL
+- 02_ML-DL
   - Machine Learning / Deep Learning
 - 03_Multimodal
-  - nlp / cv
+  - NLP / CV
 - 04_AI-Agent
 
