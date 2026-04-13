@@ -1,3 +1,3 @@
 # Data Analysis Tips
-- Colab
+- Google Colab
 - Python
